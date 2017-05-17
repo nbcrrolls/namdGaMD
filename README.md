@@ -1,0 +1,2 @@
+# namdGaMD
+GaMD-enabled NAMD
