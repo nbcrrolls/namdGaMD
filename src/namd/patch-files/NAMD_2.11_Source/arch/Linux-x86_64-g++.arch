@@ -1,0 +1,7 @@
+NAMD_ARCH = Linux-x86_64
+CHARMARCH = mpi-linux-x86_64
+
+CXX = mpiCC -m64 -std=c++0x -O3
+CC = mpicc -m64 -std=c++0x -O3
+CXXOPTS = -fexpensive-optimizations -ffast-math 
+COPTS = -fexpensive-optimizations -ffast-math

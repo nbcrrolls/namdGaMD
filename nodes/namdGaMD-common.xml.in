@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+
+<kickstart>
+
+	<description>
+	namdGaMD roll 
+	</description>
+
+	<copyright>
+	</copyright>
+
+	<changelog>
+	</changelog>
+
+	<package>namdGaMD-fftw-ROLLCOMPILER</package>
+	<package>namdGaMD-tcl-ROLLCOMPILER</package>
+	<package COND>namdGaMD-ROLLCOMPILER-ROLLNETWORK-ROLLMPI-ROLLCUDA</package>
+	<package COND>namdGaMD-module-ROLLCOMPILER-ROLLNETWORK-ROLLMPI-ROLLCUDA</package>
+
+<post>
+</post>
+
+</kickstart>

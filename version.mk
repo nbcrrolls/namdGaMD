@@ -1,0 +1,5 @@
+ROLLNAME	= namdGaMD
+RELEASE		= 0
+COLOR		= navy
+
+REDHAT.ROOT	= $(PWD)

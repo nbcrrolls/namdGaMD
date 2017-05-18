@@ -1,0 +1,11 @@
+NAMDVER  = 2.11
+CHARMVER = 6.7.0
+
+FFTWVER  = 3.3.4
+TCLVER   = 8.6.3
+
+CUDAVER = 7.5.18
+RELEASE  = 0
+
+PKGROOT  = /opt/namdGaMD/$(COMPILERNAME)
+CUDAHOME     = /opt/cuda_$(CUDAVER)

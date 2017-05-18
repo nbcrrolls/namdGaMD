@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="no"?>
+
+<graph>
+
+	<description>
+	The namdGaMD Roll
+	</description>
+
+	<copyright>
+	Copyright (c) 2000 - 2011 The Regents of the University of California.
+	All rights reserved. Rocks(r) v5.4.3 www.rocksclusters.org
+	</copyright>
+
+	<changelog>
+	</changelog>
+
+        <edge from="client" to="namdGaMD-common"/>
+
+</graph>
